@@ -131,7 +131,7 @@ const style = StyleSheet.create({
     borderWidth: 2,
     backgroundColor: "white",
     padding: 10,
-    height: 2100
+    height: 'auto'
   }
 });
 
